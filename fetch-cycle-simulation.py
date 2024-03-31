@@ -30,3 +30,4 @@ print(f"pc = {pc-1} opcode = {opCode} Oprand = {address}")
 
 opCode, address = fetch(mem)
 print(f"pc = {pc-1} opcode = {opCode} Oprand = {address}")
+
