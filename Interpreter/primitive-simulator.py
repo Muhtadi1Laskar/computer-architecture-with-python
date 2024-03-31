@@ -55,4 +55,3 @@ while run == True:
     print('PC = ',oldPC,'r0 = ',r[0],'r1 = ',r[1],'z = ',z)
 
 
-
